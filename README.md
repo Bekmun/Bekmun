@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI3OWMxMWI1YzBlOWJiZTAyYjJjMjNhMDhkNGRlNmQyODk3ODk1MyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://t.me/bekmun_gem">
@@ -9,7 +9,14 @@
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 </div>
-
+<img id="badges" align="center" src="https://komarev.com/ghpvc/?username=Bekmun&style=flat-square&color=blue" alt=""/>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<div align="center">
+	<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
 <!-- **Bekmun/Bekmun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +30,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
