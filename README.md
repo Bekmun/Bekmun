@@ -1,12 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/bekmun_gem">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="https://vk.com/feed">
-    <img src="https://img.shields.io/badge/Vkontakte-red?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Vkontakte Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte Badge"/>
   </a>
 </div>
 
