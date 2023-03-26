@@ -31,7 +31,9 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="https://t.me/bekmun_gem">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -43,4 +45,8 @@
 </div>
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=Bekmun
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bekmun&theme=ocean-dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekmun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :writing_hand: Blog Posts :
