@@ -16,26 +16,26 @@
 </div>
 
 <h1>
-  Hey there
+  Привет,
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-	I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+	я Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
 <div align="center">
 	<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </div>
 
-### :man_technologist: About Me :
+### :man_technologist: Обо мне :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: <a href="https://t.me/bekmun_gem" target="_blank">
+- 🔭 В настоящее время я работаю над проектом
+- 🌱 Я сейчас учусь в Skillbox
+- 👯 Я ищу сотрудничество по frontend разработке
+- 🤔 И мне не помешало бы найти друзей которые работают или учатся в frontend разработке
+- 📫 Как связаться со мной: <a href="https://t.me/bekmun_gem" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,9 +44,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bekmun&theme=ocean-dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bekmun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### :writing_hand: Blog Posts :
+### :writing_hand: Мои работы :
